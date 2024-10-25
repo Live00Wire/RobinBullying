@@ -1,3 +1,4 @@
+// This shit is spaghetti dawg
 const { defineConfig } = require("cypress");
 
 module.exports = defineConfig({
